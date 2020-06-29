@@ -1,7 +1,7 @@
 
 <h1 align="center">Url Shortner System</h1>
 
-## It's an url shortner system ,which is able to short an url from given long url and redirect to the long url address.You also allowed to see all the short urls you have created along with it's orginal long url and id respectively , even you can delete any record through id.Here i have used Mysql Databese to store the records.if you use this Url Shortner System on local server in your pc it would work fine but if you wants to share is link you have upload it on live server.
+## It's an url shortner system ,which is able to short an url from given long url and redirect to the long url address.You also allowed to see all the short urls you have created along with it's orginal long url and id respectively , even you can delete any record through id.Here i have used Mysql Databese to store the records.if you use this Url Shortner System on local server in your pc it would work fine but if you wants to share this link you have upload it on live server.
 
 
 
@@ -18,7 +18,7 @@
 
 # Connect Database
 - I have worked on localhost .My username on mysql database was "root" ,and password was blank "".You have to configure it accordiing hosting and database.
-
+-( dataSourceName := "your_username:your_password@tcp(localhost:3306)/your_database_name?parseTime=True" )
 
 ## There is no need to create database and table manually ,system would create automatically 
 
