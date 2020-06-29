@@ -18,7 +18,7 @@
 
 # Connect Database
 - I have worked on localhost .My username on mysql database was "root" ,and password was blank "".You have to configure it accordiing hosting and database.
--( dataSourceName := "your_username:your_password@tcp(localhost:3306)/your_database_name?parseTime=True" )
+- ( dataSourceName := "your_username:your_password@tcp(localhost:3306)/your_database_name?parseTime=True" )
 
 ## There is no need to create database and table manually ,system would create automatically 
 
